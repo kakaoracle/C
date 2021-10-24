@@ -1,10 +1,10 @@
 # 单个目录,两个源文件+一个头文件
 1. 目录结构如下:
-./Demo2
+./demo2
     |
-    +--- main.cc
+    +--- main.cpp
     |
-    +--- MathFunctions.cc
+    +--- MathFunctions.cpp
     |
     +--- MathFunctions.h
 2. 简单点的话,Cmake文件可以在demo1工程目录上修改为:
